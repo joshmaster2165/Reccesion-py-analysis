@@ -1,6 +1,3 @@
-
-Group # 3
-
 Dynamic Markov Switching Model Var
 - non-farm payroll employment
 - index of industrial production
